@@ -1,6 +1,6 @@
 {
   "name": "swain-aws-console",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Tiny utility for opening the aws-console via CLI",
   "homepage": "https://github.com/swain/aws-console#readme",
   "bugs": {
