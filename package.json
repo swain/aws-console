@@ -1,5 +1,5 @@
 {
-  "name": "@swain/aws-console",
+  "name": "swain-aws-console",
   "version": "0.1.0",
   "description": "Tiny utility for opening the aws-console via CLI",
   "homepage": "https://github.com/swain/aws-console#readme",
@@ -16,7 +16,7 @@
   "main": "index.js",
   "bin": {
     "aws-console": "./index.js",
-    "@swain/aws-console": "./index.js"
+    "swain-aws-console": "./index.js"
   },
   "files": [
     "README.md",

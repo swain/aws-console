@@ -11,7 +11,7 @@ const main = async () => {
   })
 
   if (!profile) {
-    throw new Error('Missing profile argument. Usage: @swain/aws-console <profile>')
+    throw new Error('Missing profile argument. Usage: swain-aws-console <profile>')
   }
 
   const identity = await fromIni({ profile })();

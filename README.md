@@ -3,9 +3,9 @@ A tiny utility for opening the aws-console via CLI.
 ## Usage
 
 ```bash
-npx @swain/aws-console {profile}
+npx swain-aws-console {profile}
 # OR
-npm i @swain/aws-console
+npm i swain-aws-console
 npx aws-console {profile}
 ```
 
