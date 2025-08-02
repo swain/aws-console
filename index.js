@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import { encode } from "node:querystring";
 import { fromIni } from "@aws-sdk/credential-provider-ini";
 import open from "open";
